@@ -1,5 +1,5 @@
 public class Prova {
     public static void main(){
-        System.out.println("Marc i Roger!");
+        System.out.println("Patata");
     }
 }
